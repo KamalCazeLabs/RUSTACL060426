@@ -11,7 +11,11 @@
   <p>
     <img src="https://img.shields.io/badge/Duration-24%20Hours-brightgreen?style=flat-square" alt="Duration" />
     <img src="https://img.shields.io/badge/Schedule-Mon%20to%20Thu%20(Starting%20April%206)-yellow?style=flat-square" alt="Schedule" />
-    <img src="https://img.shields.io/badge/Fee-₹6000%20+%20GST-red?style=flat-square" alt="Fee" />
+    <img src="https://img.shields.io/badge/Time-8:00pm%20to%209:30pm%20(IST)-purple?style=flat-square" alt="Time" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Fee-₹6000%20+%20GST%20%7C%20₹4000%20+%20GST%20(Students)-red?style=flat-square" alt="Fee" />
+    <a href="mailto:kamal@aptcomputinglabs.com"><img src="https://img.shields.io/badge/Contact-kamal@aptcomputinglabs.com-blue?style=flat-square&logo=minutemailer" alt="Email" /></a>
   </p>
 </div>
 
