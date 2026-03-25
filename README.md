@@ -23,6 +23,8 @@
 
 ## 🎯 Course Objective
 
+> 📖 **Current Students:** Jump straight to the **[Daily Session Logs & Resources (daily.md)](./daily.md)** for session recordings, PPTs, MCQs, and assignments!
+
 This intensive course is meticulously designed to help participants:
 - 🏗️ **Build a strong foundation** in Rust programming from the ground up.
 - 🧠 **Understand core paradigms**: memory safety, ownership, and concurrency without data races.
